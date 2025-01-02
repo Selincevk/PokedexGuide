@@ -1,4 +1,4 @@
-<h1>POKEDEX GUIDE https://www.emojis.com/emoji/pokemon-pikachu-dW7SuJXNep </h1>
+<h1>POKEDEX GUIDE </h1> ![](pikachu.png)
 
 Pokemon dünyasına adım atın.Bu projede HTML,CSS,JavaScript ve Pokemon API entegresyonu ile inşa edilmiş interaktif bir web uygulamasıdır.Bu proje hem teknik becerilerimi geliştirmeme olanak sağladı hem de Pokemon hayranlarına keyifli bir deneyim sunmayı amaçladı.
 
@@ -15,6 +15,8 @@ Pokemon dünyasına adım atın.Bu projede HTML,CSS,JavaScript ve Pokemon API en
 🌈 Türlerine göre otomatik arka plan renkleri eklendi
 
 💻 Hangi tür Pokemon karakterini seviyorsan, onu arayın ve bulun ⚡
+
+
 
 <h1>DEMO</h1>
 
